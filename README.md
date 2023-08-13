@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 ### GitHub Stats
 [![Syndux's GitHub stats](https://github-readme-stats.vercel.app/api?username=syndux&hide=stars,issues&show_icons=true&theme=react#gh-dark-mode-only)](https://github.com/syndux/github-readme-stats#gh-dark-mode-only)
 [![Syndux's GitHub stats](https://github-readme-stats.vercel.app/api?username=syndux&hide=stars,issues&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/syndux/github-readme-stats#gh-light-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syndux&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syndux&layout=compact&theme=react#gh-dark-mode-only)
