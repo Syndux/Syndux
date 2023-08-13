@@ -27,9 +27,9 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syndux&layout=compact&theme=react#gh-light-mode-only" />
 </a>-->
 
-<a href="https://github.com/syndux/github-readme-stats#gh-dark-mode-only">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=syndux" />
+<a href="https://github.com/syndux/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=syndux" />
 </a>
 <a href="https://github.com/syndux/">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syndux&layout=compact&langs_count=8&card_width=323" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syndux&layout=compact&langs_count=8&card_width=323" />
 </a>
