@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 ### GitHub Stats
 
-[![Syndux's GitHub stats](https://github-readme-stats.vercel.app/api?username=syndux&hide=stars,issues&show_icons=true&theme=react&bg_color=00000000)](https://github.com/syndux/github-readme-stats)
+[![Syndux's GitHub stats](https://github-readme-stats.vercel.app/api?username=syndux&hide=stars,issues&show_icons=true&theme=react&bg_color=00000000#gh-dark-mode-only)](https://github.com/syndux/github-readme-stats)
 
