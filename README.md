@@ -24,5 +24,5 @@ Here are some ideas to get you started:
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=syndux&hide=stars,issues&show_icons=true&theme=default#gh-light-mode-only" />
 </a>
 <a href="https://github.com/syndux/">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syndux&layout=compact&langs_count=8&card_width=350&theme=default##gh-light-mode-only" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syndux&layout=compact&langs_count=8&card_width=350&theme=default#gh-light-mode-only" />
 </a>
