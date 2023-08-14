@@ -13,16 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### GitHub Stats
-<a href="https://github.com/syndux/github-readme-stats#gh-dark-mode-only">
+<a href="https://github.com/syndux/">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=syndux&hide=stars,issues&show_icons=true&theme=react#gh-dark-mode-only" />
 </a>
-<a href="https://github.com/syndux/github-readme-stats#gh-dark-mode-only">
+<a href="https://github.com/syndux/">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syndux&layout=compact&langs_count=8&card_width=350&theme=react#gh-dark-mode-only" />
 </a>
 
-<a href="https://github.com/syndux/github-readme-stats#gh-light-mode-only">
+<a href="https://github.com/syndux/">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=syndux&hide=stars,issues&show_icons=true&theme=default#gh-light-mode-only" />
 </a>
-<a href="https://github.com/syndux/github-readme-stats#gh-light-mode-only">
+<a href="https://github.com/syndux/">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syndux&layout=compact&langs_count=8&card_width=350&theme=default##gh-light-mode-only" />
 </a>
