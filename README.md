@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center"> Hi, I'm Huey Nguyen </h1>
-I'm a dedicated Software Engineer with a profound passion for harnessing technology to instigate meaningful change and innovation. My journey began with a foundation in Computer Engineering, and I've been on an unending quest for knowledge, leading me to the dynamic realm of software engineering. This journey has been defined by an unwavering commitment to continuous growth and adaptability, making me a valuable asset to any team.
+I'm a dedicated Software Engineer with a profound passion for harnessing technology to instigate meaningful change and innovation. My journey began with a foundation in Computer Engineering, and I've been on an unending quest for knowledge, leading me to the dynamic realm of software engineering. This journey has been defined by an unwavering commitment to continuous growth and adaptability, making me a valuable asset to any team. 
+
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huey-nguyen/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huey.nguyen2022@gmail.com)
 
