@@ -45,6 +45,3 @@ I'm a dedicated Software Developer with a profound passion for harnessing techno
 <a href="https://github.com/syndux/#gh-light-mode-only">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syndux&layout=compact&langs_count=8&card_width=350&theme=default#gh-light-mode-only" />
 </a>
-
-## Connect with me
-If you're as passionate about technology and innovation as I am or if you see opportunities for collaboration, I'd love to connect and explore how we can collectively make a difference through technology. I may also be reached at hueynguyen2022@gmail.com.
